@@ -1,2 +1,2 @@
-./milvus_env
-./volumes
+.milvus_env/
+volumes/
